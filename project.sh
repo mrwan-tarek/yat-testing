@@ -1,4 +1,5 @@
 #!/bin/bash
+echo 'this dev brach'
 echo '----------------------------'
 echo 'welcome to maro mini-system'
 while :
